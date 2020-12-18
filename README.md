@@ -5,4 +5,5 @@ There is also an additional 3rd wheel for balance and swings on a joint for turn
 3D model created in Autodesk Inventor
 
 Software side created in Tinkercad (https://www.tinkercad.com/things/lkA1wtc775p)
+
 Circuit schematic created in Fritzing
